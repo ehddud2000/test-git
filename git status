@@ -1,0 +1,12 @@
+[33mcommit 31db1b047ee1ce5e0e965537136c3e985ebdc23e[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m
+Author: ehddud2000 <dud1030898@gmail.com>
+Date:   Wed Sep 4 09:14:29 2024 +0900
+
+    first commit
+
+[33mcommit 3a3467a5b7694bbf3a7368aa4726387a31b28518[m[33m ([m[1;31morigin/main[m[33m)[m
+Author: ehddud2000 <dud1030898@gmail.com>
+Date:   Tue Sep 3 23:31:15 2024 +0900
+
+    fast : hi기능 구성
+    -test.py 생성
